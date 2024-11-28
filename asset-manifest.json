@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ketthucmon/static/css/main.180cbd4b.css",
+    "main.js": "/Ketthucmon/static/js/main.865ae569.js",
+    "index.html": "/Ketthucmon/index.html",
+    "main.180cbd4b.css.map": "/Ketthucmon/static/css/main.180cbd4b.css.map",
+    "main.865ae569.js.map": "/Ketthucmon/static/js/main.865ae569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.180cbd4b.css",
+    "static/js/main.865ae569.js"
+  ]
+}
